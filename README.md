@@ -66,10 +66,3 @@ Order 6 executed at 09:03, Price: 200, Quantity: 15
 Order 5 executed at 09:03, Price: 200, Quantity: 10
 ```
 
----
-
-## Contribution
-
-Feel free to fork the repository and submit pull requests for any improvements or bug fixes.
-
----
