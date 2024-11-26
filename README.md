@@ -1,5 +1,3 @@
-Here is a README file for your **Order Book Matching System**:
-
 ---
 
 # Order Book Matching System
