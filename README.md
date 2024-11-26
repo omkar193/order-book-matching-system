@@ -48,7 +48,6 @@ order_book.addOrder("AAPL", "BL", 100, 10);
 order_book.newTick("AAPL", 106, "08:58");
 order_book.newTick("AAPL", 104, "09:00");
 ```
-
 ---
 
 ## Example Output
